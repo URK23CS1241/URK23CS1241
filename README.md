@@ -32,7 +32,7 @@ Brain Tumor Classification Using Hybrid Deep Learning Models on MRI Images
 
 📫 Contact:
 
-* LinkedIn: Add your LinkedIn link
-* Email: Add your email
+* LinkedIn: www.linkedin.com/in/christina-joy-73280b288
+* Email: christinajoy@karunya.edu.in
 
 ⭐ Feel free to explore my repositories and projects!
