@@ -1,6 +1,4 @@
-# 🌟 Ultimate GitHub Profile README
 
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Christina%20Joy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Deep%20Learning%20|%20Computer%20Vision&descAlignY=60"/>
