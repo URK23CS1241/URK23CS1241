@@ -1,74 +1,89 @@
-<h1 align="center">Hi 👋, I'm Christina Joy</h1>
+# 🌟 Ultimate GitHub Profile README
 
-<h3 align="center">
-🎓 Final Year Computer Science Engineering Student <br>
-🤖 AI Enthusiast | 🧠 Deep Learning | 👁️ Computer Vision
-</h3>
+```markdown
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Deep+Learning+Researcher;Computer+Vision+Developer;Medical+Image+Analysis;Always+Learning+New+Things!"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Christina%20Joy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Deep%20Learning%20|%20Computer%20Vision&descAlignY=60"/>
+
+# Hi 👋 I'm Christina Joy
+
+### 🎓 Final Year Computer Science Engineering Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Deep+Learning+Researcher;Computer+Vision+Developer;Java+Developer;Always+Learning+Something+New!" />
+
+<p>
+<a href="https://github.com/URK23CS1241">
+<img src="https://img.shields.io/github/followers/URK23CS1241?label=Followers&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=URK23CS1241&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/URK23CS1241?style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-🎓 Final Year Computer Science Engineering Student
+🎓 Final Year CSE Student
 
-🧠 Passionate about Artificial Intelligence, Deep Learning & Computer Vision
+🧠 Passionate about Artificial Intelligence & Deep Learning
 
-🔬 Currently working on **Brain Tumor Classification Using Hybrid Deep Learning Models on MRI Images**
+🔬 Working on Brain Tumor Classification using Deep Learning
 
-🌱 Currently learning:
+💻 Love solving DSA problems in Java
 
-- Advanced Deep Learning
-- Explainable AI (XAI)
-- Attention Mechanisms
+🌱 Learning
 
-💬 Ask me about
-
-- Java
-- Python
-- Machine Learning
 - Deep Learning
+- Explainable AI
 - Computer Vision
+- CNN
+- Transformer Models
 
-⚡ Fun Fact
+⚡ Goal
 
-> "I enjoy building intelligent systems that solve real-world healthcare problems."
+Become a Software Engineer & AI Engineer
 
 ---
 
 # 🚀 Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+# 🧠 AI & ML
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/CNN-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XAI-FF4081?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C6BC0?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=URK23CS1241&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=URK23CS1241&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +93,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=URK23CS1241&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -88,7 +103,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=URK23CS1241&theme=tokyo-night"/>
 
 </p>
 
@@ -98,49 +113,35 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=URK23CS1241&theme=tokyonight&margin-w=10&margin-h=10"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 💼 Featured Projects
 
-## 🧠 Brain Tumor Classification Using Hybrid Deep Learning Models
+🧠 Brain Tumor Classification Using Deep Learning
 
-- CNN
-- TensorFlow
-- MRI Image Classification
-- Explainable AI (Grad-CAM)
-- Medical Image Analysis
+🌐 School Management System
 
----
+💻 Java DSA Solutions
 
-## 🌐 School Management System
-
-- MERN Stack
-- Authentication
-- Student Management
-- Responsive UI
+🤖 Machine Learning Projects
 
 ---
 
-## 💻 Java & DSA Solutions
+# 📚 Currently Learning
 
-- LeetCode Problems
-- Data Structures
-- Algorithms
-- Interview Preparation
+✔ Deep Learning
 
----
+✔ Explainable AI
 
-# 📚 Currently Exploring
+✔ CNN Architectures
 
-- 🧠 Advanced Deep Learning
-- 👁️ Computer Vision
-- 📊 Explainable AI (XAI)
-- 🔬 Medical Imaging
-- 🤖 Transformer Models
+✔ Medical Imaging
+
+✔ Software Development
 
 ---
 
@@ -152,8 +153,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
@@ -162,22 +161,15 @@
 
 ---
 
-# 💡 Quote
-
-<p align="center">
-
-> **"Building intelligent solutions today for a smarter tomorrow."**
-
-</p>
-
----
+# 💬 Quote
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Coding! 🚀
+> "Building intelligent solutions that create real-world impact."
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+```
