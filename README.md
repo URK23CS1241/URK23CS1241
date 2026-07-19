@@ -1,17 +1,18 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Christina%20Joy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Deep%20Learning%20|%20Computer%20Vision&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Christina%20Joy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Deep%20Learning%20•%20Computer%20Vision%20•%20Java&descAlignY=60"/>
 
-# Hi 👋 I'm Christina Joy
+<h1>Hi 👋, I'm Christina Joy</h1>
 
-### 🎓 Final Year Computer Science Engineering Student
+<h3>🎓 Final Year Computer Science Engineering Student</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Deep+Learning+Researcher;Computer+Vision+Developer;Java+Developer;Always+Learning+Something+New!" />
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Deep+Learning+Researcher;Computer+Vision+Developer;Java+Developer;Always+Learning+Something+New!" />
+</p>
 
 <p>
 <a href="https://github.com/URK23CS1241">
-<img src="https://img.shields.io/github/followers/URK23CS1241?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/URK23CS1241?style=for-the-badge&logo=github"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=URK23CS1241&style=for-the-badge&color=blue"/>
@@ -25,51 +26,49 @@
 
 # 💫 About Me
 
-🎓 Final Year CSE Student
+🎓 Final Year Computer Science Engineering Student
 
-🧠 Passionate about Artificial Intelligence & Deep Learning
+🧠 Passionate about Artificial Intelligence, Deep Learning & Computer Vision
 
-🔬 Working on Brain Tumor Classification using Deep Learning
+🔬 Currently working on **Brain Tumor Classification Using Hybrid Deep Learning Models on MRI Images**
 
-💻 Love solving DSA problems in Java
+💻 Interested in Software Engineering, AI and Machine Learning
 
-🌱 Learning
+🌱 Currently Learning
 
-- Deep Learning
-- Explainable AI
+- Advanced Deep Learning
+- Explainable AI (XAI)
+- Attention Mechanisms
 - Computer Vision
-- CNN
-- Transformer Models
-
-⚡ Goal
-
-Become a Software Engineer & AI Engineer
+- Software Development
 
 ---
 
 # 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/>
 
-</div>
+</p>
 
 ---
 
-# 🧠 AI & ML
+# 🤖 AI & Machine Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Computer%20Vision-1E88E5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/CNN-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XAI-43A047?style=for-the-badge"/>
 
 </p>
 
@@ -79,9 +78,9 @@ Become a Software Engineer & AI Engineer
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=URK23CS1241&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=URK23CS1241&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=URK23CS1241&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=URK23CS1241&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -91,7 +90,7 @@ Become a Software Engineer & AI Engineer
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=URK23CS1241&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=URK23CS1241&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -111,7 +110,7 @@ Become a Software Engineer & AI Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=URK23CS1241&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=URK23CS1241&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -119,27 +118,60 @@ Become a Software Engineer & AI Engineer
 
 # 💼 Featured Projects
 
-🧠 Brain Tumor Classification Using Deep Learning
+### 🧠 Brain Tumor Classification Using Hybrid Deep Learning Models
 
-🌐 School Management System
-
-💻 Java DSA Solutions
-
-🤖 Machine Learning Projects
+- MRI Image Classification
+- CNN Architecture
+- Explainable AI (Grad-CAM)
+- TensorFlow & OpenCV
 
 ---
 
-# 📚 Currently Learning
+### 🌐 School Management System
 
-✔ Deep Learning
+- MERN Stack
+- Authentication
+- Student & Faculty Management
+
+---
+
+### ☕ Java Projects
+
+- Object-Oriented Programming
+- Collections Framework
+- Problem Solving
+
+---
+
+### 🤖 Machine Learning Projects
+
+- Classification
+- Image Processing
+- Data Analysis
+
+---
+
+# 📚 Currently Exploring
+
+✔ Advanced Deep Learning
 
 ✔ Explainable AI
 
-✔ CNN Architectures
+✔ Attention Mechanisms
 
-✔ Medical Imaging
+✔ Medical Image Analysis
 
-✔ Software Development
+✔ Software Engineering
+
+---
+
+# 🏅 Certifications
+
+🏆 Microsoft Azure Data Fundamentals
+
+📚 Machine Learning
+
+💻 Java Programming
 
 ---
 
@@ -150,6 +182,8 @@ Become a Software Engineer & AI Engineer
 <a href="https://www.linkedin.com/in/christina-joy-73280b288/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -163,11 +197,18 @@ Become a Software Engineer & AI Engineer
 
 <div align="center">
 
-> "Building intelligent solutions that create real-world impact."
+### ✨ "Building intelligent solutions that create real-world impact."
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
-```
+<div align="center">
+
+## ⭐ Thank you for visiting my profile!
+
+If you find my projects interesting, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:00F5A0&height=120&section=footer"/>
+
+</div>
